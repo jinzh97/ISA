@@ -1,0 +1,305 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jiz011/Desktop/CSE141L
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1560393639
+!i10b 1
+!s100 i2de:3Yeck7WT0V1iEl>e3
+I_hG[X]da]m]P?2E^HK9L13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/jiz011/Desktop/CSE141L/CSE-141l
+w1560387425
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/ALU.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/ALU.sv
+L0 8
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1560393639.000000
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/ALU.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@l@u
+vCtrl
+R0
+Z8 !s110 1560393638
+!i10b 1
+!s100 SYOUc6Xe;g3RVb>j>ZAZH0
+I5@?_]VT5jIf:043QDJl:H1
+R2
+!s105 Ctrl_sv_unit
+S1
+R3
+w1560387333
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv
+L0 5
+R4
+r1
+!s85 0
+31
+Z9 !s108 1560393638.000000
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv|
+!i113 1
+R6
+R7
+n@ctrl
+vdata_mem
+R0
+R1
+!i10b 1
+!s100 HA7_gkb_B@7WY<WJMLL<;3
+IUWGzBzSIlDQ8kLG4UhU@A0
+R2
+!s105 data_mem_sv_unit
+S1
+R3
+Z10 w1559865971
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/data_mem.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/data_mem.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/data_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/data_mem.sv|
+!i113 1
+R6
+R7
+vInstROM
+R0
+R1
+!i10b 1
+!s100 _QcU1oZ3[DBdU;WmTMjKl0
+I<R2VD@z<:]W?a:EJIH4Wm1
+R2
+!s105 InstROM_sv_unit
+S1
+R3
+w1560393460
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/InstROM.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/InstROM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/InstROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/InstROM.sv|
+!i113 1
+R6
+R7
+n@inst@r@o@m
+vLUT
+R0
+R1
+!i10b 1
+!s100 O>2>bEY^DY6Dn@d7Y26o`2
+INJW4k@6<Vm<W7;FG6g63<0
+R2
+!s105 LUT_sv_unit
+S1
+R3
+w1560393328
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/LUT.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/LUT.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/LUT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/LUT.sv|
+!i113 1
+R6
+R7
+n@l@u@t
+vparity
+R0
+R1
+!i10b 1
+!s100 FG3CEhN9IOclFbH8M8S2l1
+IknlgR80EZ`6526<UZR8QV1
+R2
+!s105 parity_sv_unit
+S1
+R3
+w1560384842
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/parity.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/parity.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/parity.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/parity.sv|
+!i113 1
+R6
+R7
+vPC
+R0
+R8
+!i10b 1
+!s100 zY;kD6XU@Y?GQn:[GoKQo2
+IHzTVY@3UQHmNC^;hVIAUa0
+R2
+!s105 PC_sv_unit
+S1
+R3
+w1560294307
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/PC.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/PC.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/PC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/PC.sv|
+!i113 1
+R6
+R7
+n@p@c
+vprog123_tb
+R0
+R1
+!i10b 1
+!s100 >Z=X11cIImV5WIToBOdX^1
+ILeAeSPakSPYGYN3XUHLId0
+R2
+!s105 prog123_tb_sv_unit
+S1
+R3
+R10
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv|
+!i113 1
+R6
+R7
+vreg_file
+R0
+R1
+!i10b 1
+!s100 5?BaER@W<8TQ>CF>?Q`XM1
+IFER78W[AT`z4YZV<Kn;IN2
+R2
+!s105 reg_file_sv_unit
+S1
+R3
+w1560294428
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv|
+!i113 1
+R6
+R7
+vtop_tb
+R0
+!s110 1559072884
+!i10b 1
+!s100 QMPlQ^L;I2F<a39PT>09O0
+IIW^LmamhjM=7m2hP;@4X:1
+R2
+Z11 !s105 TopLevel_tb_sv_unit
+S1
+R3
+w1559072882
+Z12 8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel_tb.sv
+Z13 FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1559072884.000000
+Z14 !s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel_tb.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel_tb.sv|
+!i113 1
+R6
+R7
+vTopLevel
+R0
+R8
+!i10b 1
+!s100 VaL:3VCd6aFi;emXEBNEe2
+IT<bE:lnGV0UcU6j5^39K]0
+R2
+!s105 TopLevel_sv_unit
+S1
+R3
+w1560294395
+8C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv
+FC:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv|
+!i113 1
+R6
+R7
+n@top@level
+vTopLevel_tb
+R0
+R1
+!i10b 1
+!s100 hL[W?R9zCH8Vc6:>QcX2h3
+I7zW>_O6?]7ARN2:EI>`CT2
+R2
+R11
+S1
+R3
+R10
+R12
+R13
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+n@top@level_tb

@@ -1,0 +1,139 @@
+# Compile of TopLevel.sv was successful.
+# Compile of PC.sv was successful.
+# Compile of Ctrl.sv was successful.
+# Compile of reg_file.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of data_mem.sv was successful.
+# Compile of InstROM.sv was successful.
+# Compile of TopLevel_tb.sv was successful.
+# Compile of parity.sv was successful.
+# Compile of prog123_tb.sv was successful.
+# Compile of LUT.sv was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.prog123_tb
+# vsim -gui work.prog123_tb 
+# Start time: 19:40:46 on Jun 12,2019
+# Loading sv_std.std
+# Loading work.prog123_tb
+# Loading work.TopLevel
+# Loading work.PC
+# Loading work.LUT
+# Loading work.Ctrl
+# Loading work.InstROM
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.parity
+# Loading work.data_mem
+# ** Warning: (vsim-3015) C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv(47): [PCDPC] - Port size (8) does not match connection size (1) for port 'lower'. The port definition is at: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv(8).
+#    Time: 0 ps  Iteration: 0  Instance: /prog123_tb/DUT/Ctrl1 File: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv
+# ** Warning: (vsim-3015) C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv(47): [PCDPC] - Port size (8) does not match connection size (1) for port 'upper'. The port definition is at: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv(7).
+#    Time: 0 ps  Iteration: 0  Instance: /prog123_tb/DUT/Ctrl1 File: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/Ctrl.sv
+# ** Warning: (vsim-3015) C:/Users/jiz011/Desktop/CSE141L/CSE-141l/TopLevel.sv(70): [PCDPC] - Port size (4) does not match connection size (5) for port 'reg_addr'. The port definition is at: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv(14).
+#    Time: 0 ps  Iteration: 0  Instance: /prog123_tb/DUT/reg_file1 File: C:/Users/jiz011/Desktop/CSE141L/CSE-141l/reg_file.sv
+run -all
+# start program 1
+#  
+# 0101001010101010
+# 0101001010101010
+#  
+# 0110100010001110
+# 0110100010001110
+#  
+# 0110000001001101
+# 0110000001001101
+#  
+# 0110011000011110
+# 0110011000011110
+#  
+# 0011000001100101
+# 0011000001100101
+#  
+# 0001100001100111
+# 0001100001100111
+#  
+# 0100011010100111
+# 0100011010100111
+#  
+# 0010000100010010
+# 0010000100010010
+#  
+# 0011000000000100
+# 0011000000000100
+#  
+# 0101000001100100
+# 0101000001100100
+#  
+# 0001011100111010
+# 0001011100111010
+#  
+# 0101001101100111
+# 0101001101100111
+#  
+# 0111111001100111
+# 0111111001100111
+#  
+# 0111100001100001
+# 0111100001100001
+#  
+# 0001111111001101
+# 0001111111001101
+#  
+#  
+# start program 2
+#  
+# 0000010011000110
+# 0000010011000110
+#  
+# 0000001010101010
+# 0000001010101010
+#  
+# 0000001001110111
+# 0000001001110111
+#  
+# 0000001110001111
+# 0000001110001111
+#  
+# 0000011011001110
+# 0000011011001110
+#  
+# 0000011011000101
+# 0000011011000101
+#  
+# 0000000010111101
+# 0000000010111101
+#  
+# 0000011001100101
+# 0000011001100101
+#  
+# 0000011100001010
+# 0000011100001010
+#  
+# 0000000100100000
+# 0000000100100000
+#  
+# 0000010010011101
+# 0000010010011101
+#  
+# 0000000000010011
+# 0000000000010011
+#  
+# 0000011001010011
+# 0000011001010011
+#  
+# 0000001011010101
+# 0000001011010101
+#  
+# 0000011010101110
+# 0000011010101110
+#  
+#  
+# start program 3
+#  
+# ctb =  96  96
+# cts = 127 127
+# cto =  32  32
+# ** Note: $stop    : C:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv(136)
+#    Time: 104595 ns  Iteration: 0  Instance: /prog123_tb
+# Break in Module prog123_tb at C:/Users/jiz011/Desktop/CSE141L/CSE-141l/prog123_tb.sv line 136
+# End time: 19:41:11 on Jun 12,2019, Elapsed time: 0:00:25
+# Errors: 0, Warnings: 3
